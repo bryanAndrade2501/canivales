@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1656028810 source:c:\users\bryan andrade\documents\codeblocks\nodo\main.cpp
+	"cabecera.h"
+
+1654345060 c:\users\bryan andrade\documents\codeblocks\nodo\cabecera.h
+	<iostream>
+
